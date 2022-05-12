@@ -13,6 +13,6 @@ void rest(float value)
 
 int main()
 {
-    std::cout << "Hello World!\n";
+   
 }
 
